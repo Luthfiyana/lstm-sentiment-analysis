@@ -38,11 +38,9 @@ Menggunakan Google Colab sangat direkomendasikan karena dapat memudahkan untuk m
 Untuk mendapatkan file `testing_converted.xlsx`, `sentiment_lstm_model.h5`, dan `tokenizer.pkl` ke lingkungan Colab Anda, Anda perlu mengkloning repositori ini. Jalankan perintah berikut di **sel Colab pertama Anda**:
 
 ```bash
-!git clone https://github.com/USERNAME_ANDA/NAMA_REPOSITORI_ANDA.git
-%cd NAMA_REPOSITORI_ANDA/notebooks # Pindah ke direktori tempat notebook berada
+!git clone https://github.com/Luthfiyana/lstm-sentiment-analysis.git
+%cd lstm-sentiment-analysis/notebooks # Pindah ke direktori tempat notebook berada
 ```
-
-**Penting:** Ganti `USERNAME_ANDA` dengan username GitHub Anda (misal: `octocat`) dan `NAMA_REPOSITORI_ANDA` dengan nama repositori Anda (misal: `sentiment-analysis-project`). Pastikan tidak ada spasi di `NAMA_REPOSITORI_ANDA`.
 
 #### 3\. Sesuaikan Path dalam Kode
 
